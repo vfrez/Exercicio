@@ -1,0 +1,21 @@
+codigo_produto;codigo_fornecedores;quantidade_estoque;descricao;PRECO;linha_produto;descricao_linha;quantidade_produtos_linha
+100;2;4;Ford Fiesta         ;13950,0;LP001;Passeio                       ;8
+101;6;5;Toyota Hilux        ;91000,0;LP002;Utilitários                   ;5
+102;3;5;Hyundai Azera       ;118895,0;LP003;Luxo                          ;7
+201;1;8;Hiundai Tucson      ;85900,0;LP002;Utilitários                   ;5
+202;6;9;Toyota Corolla      ;156990,0;LP003;Luxo                          ;7
+204;2;6;Chevrolet Vectra    ;55800,0;LP001;Passeio                       ;8
+301;4;10;Citroen C5          ;190000,0;LP003;Luxo                          ;7
+302;1;14;Fiat Linea          ;54999,0;LP001;Passeio                       ;8
+303;1;5;KIA Sportge         ;83450,0;LP002;Utilitários                   ;5
+304;3;5;Fiat Palio          ;14900,0;LP001;Passeio                       ;8
+400;2;7;Volkswagem Jetta    ;56900,0;LP001;Passeio                       ;8
+401;6;5;Ford Edge           ;84580,0;LP002;Utilitários                   ;5
+402;1;10;Chevrolet Omega     ;128875,0;LP003;Luxo                          ;7
+403;2;7;Volkswagem Gol      ;14500,0;LP001;Passeio                       ;8
+500;3;13;Ford Focus          ;53320,0;LP001;Passeio                       ;8
+504;5;8;BMW X3              ;129990,0;LP003;Luxo                          ;7
+509;1;5;Honda Civic         ;140000,0;LP003;Luxo                          ;7
+601;1;5;Chevrolet Corsa     ;14300,0;LP001;Passeio                       ;8
+704;5;3;Volkswagem Passat   ;119999,0;LP003;Luxo                          ;7
+804;3;1;Jeep Gran Cherokee  ;80000,0;LP002;Utilitários                   ;5
